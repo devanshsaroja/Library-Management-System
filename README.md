@@ -97,4 +97,4 @@ This project demonstrates the application of SQL skills in creating and managing
 4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
 ## 📄 License
-- This project is licensed under the MIT License.
+- This project is licensed under the [MIT License](License).
